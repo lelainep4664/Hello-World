@@ -1,2 +1,2 @@
 # Hello-World
-New York on Tech Git Hub
+New York on Tech, Git Hub page
