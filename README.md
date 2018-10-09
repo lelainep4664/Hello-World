@@ -1,2 +1,2 @@
 # Hello-World
-New York on Tech Repo 
+New York on Tech Git Hub
